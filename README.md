@@ -6,3 +6,6 @@ I learned how to use the pandas and matlotlib library to display graphs in the c
 Shows a histogram and scatterplot. 
 
 Made with GWC 2026 Summer Pathways program. 
+
+Check it out here!
+https://hq.girlswhocode.com/TextJam/py/3579/f7bc72ee
